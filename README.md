@@ -53,3 +53,4 @@ This is an exercise for Git course.
 - @marble0039 git merge / conflict
 - @vanlmlam git branch / flow
 - @frankwong324 [Git add](git-add.md) / [Git commit](git-commit.md)
+- @leo-zll, @solioip git install, config, write git message
