@@ -43,14 +43,20 @@ This is an exercise for Git course.
 - [ ] Git pull
 - [ ] Git reset
 - [ ] Git reflog
+- [ ] Git install
+- [ ] Config
+- [ ] Write Git message
+- [ ] Git log
+- [ ] Git merge
+- [ ] Manage conflict
 
-## Members
+## Members and Credits
 
-- @barrychow [Git reset](git-reset.md) / [Git Reflog](git-reflog.md)
-- @SamuelNWK [Worknig Directory](working-directory.md)
-- @JackyMO git rebase
-- @dillyhk, @chrislao [Git remote](git-remote.md) / [Git push](git-push.md) / [Git fetch](git-fetch.md) / [Git pull](git-pull.md)
-- @marble0039 git merge / conflict
-- @vanlmlam git branch / flow
-- @frankwong324 [Git add](git-add.md) / [Git commit](git-commit.md)
-- @leo-zll, @solioip git install, config, write git message
+- @barrychow: Git reset / Git Reflog
+- @SamuelNWK: Working Directory
+- @JackyMO: Git rebase
+- @dillyhk, @chrislao: Git remote / Git push / Git fetch / Git pull
+- @marble0039: Git merge / Manage conflict
+- @vanlmlam: Git branch / Git flow
+- @frankwong324: Git add / Git commit
+- @leo-zll, @solioip: Git install, Config, Write Git message
