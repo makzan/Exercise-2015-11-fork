@@ -5,7 +5,7 @@ This is a short introduction of Git.
 You can find code snippets of essential git commands in the following:
 
 - [Git add](git-add.md) / [Git commit](git-commit.md)
-- [Worknig Directory](working-directory.md)
+- [Git status and Worknig Directory](working-directory.md)
 - [Git branch](git-branch.md) / [Git flow](git-flow.md)
 - [Git remote](git-remote.md) / [Git push](git-push.md) / [Git fetch](git-fetch.md) / [Git pull](git-pull.md)
 - [Git reset](git-reset.md) / [Git Reflog](git-reflog.md)
@@ -34,7 +34,7 @@ This is an exercise for Git course.
 
 - [ ] Git add
 - [ ] Git commit
-- [ ] Working Directory
+- [ ] Git status and Working Directory
 - [ ] Git branch
 - [ ] Git flow
 - [ ] Git remote
@@ -53,7 +53,7 @@ This is an exercise for Git course.
 ## Members and Credits
 
 - @barrychow: Git reset / Git Reflog
-- @SamuelNWK: Working Directory
+- @SamuelNWK: Git status and Working Directory
 - @JackyMO: Git rebase
 - @dillyhk, @chrislao: Git remote / Git push / Git fetch / Git pull
 - @marble0039: Git merge / Manage conflict
