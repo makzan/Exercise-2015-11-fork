@@ -9,6 +9,7 @@ You can find code snippets of essential git commands in the following:
 - [Git branch](git-branch.md) / [Git flow](git-flow.md)
 - [Git remote](git-remote.md) / [Git push](git-push.md) / [Git fetch](git-fetch.md) / [Git pull](git-pull.md)
 - [Git reset](git-reset.md) / [Git Reflog](git-reflog.md)
+- 
 
 In each git command document, you can find the following sections:
 
@@ -43,3 +44,12 @@ This is an exercise for Git course.
 - [ ] Git reset
 - [ ] Git reflog
 
+## Members
+
+@barrychow [Git reset](git-reset.md) / [Git Reflog](git-reflog.md)
+@SamuelNWK [Worknig Directory](working-directory.md)
+@JackyMO git rebase
+@dillyhk, @chrislao [Git remote](git-remote.md) / [Git push](git-push.md) / [Git fetch](git-fetch.md) / [Git pull](git-pull.md)
+@marble0039 git merge / conflict
+@vanlmlam git branch / flow
+@frankwong324 [Git add](git-add.md) / [Git commit](git-commit.md)
